@@ -102,10 +102,10 @@ scene.add(snow);
 // ===== Photos =====
 const textureLoader = new THREE.TextureLoader();
 const photoUrls = [
-  'assets/photos/01.jpg',
-  'assets/photos/02.jpg',
-  'assets/photos/03.jpg',
-  'assets/photos/04.jpg',
+  '005OxMBSly1i3ex3b1milj32s41b84qs',
+  '005OxMBSly1i3to23qhlcj32ls1jkhdx',
+  '005OxMBSly1i4hzadvxo5j32sd1b84qu',
+  '005OxMBSly1i287felpisj32s91b81l1',
 ];
 const photos = [];
 const photoGroup = new THREE.Group();
